@@ -2,6 +2,7 @@
 
 A Binary Grid is a 2D square grid of cells, each of which is either empty, or contains the
 value 0 or 1. A set of rules governs what is legal in a valid board :
+
 • Each cell should contain either a zero or a one.
 • No more than two of the same number can appear consecutively in a row or a column.
 • There must be an equal number of 0s and 1s in each row and column - this means that the height/width of the puzzle must be even.
