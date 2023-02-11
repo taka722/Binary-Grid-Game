@@ -10,6 +10,7 @@ value 0 or 1. A set of rules governs what is legal in a valid board :
 • There must be an equal number of 0s and 1s in each row and column - this means that the height/width of the puzzle must be even.
 
 Given these rules1 we can deduce some principles to help us find a solution:
+
 Pairs : If two of the same number (0s or 1s) are in adjacent cells (either horizontally or vertically) then the two surrounding cells on either side must  be the other number, otherwise there would be three of the same number in sequence.
 
 OXO : If there are two of the same number with a gap of one empty cell between them (horizontally or vertically), then the opposite number must be in the empty cell (otherwise we’d have three of the same number in sequence).
