@@ -41,7 +41,36 @@ or for the development version:
 1 0 
 0 1
 ```
-
+```
+0 1 0 1 
+1 0 1 0 
+0 1 1 0 
+1 0 0 1 
+```
+```
+1 0 1 0 
+0 1 0 1 
+0 0 1 1 
+1 1 0 0 
+```
+```
+1 0 1 0 1 0 
+1 0 0 1 0 1 
+0 1 0 0 1 1 
+0 1 1 0 1 0 
+1 0 1 1 0 0 
+0 1 0 1 0 1 
+```
+```
+0 1 0 1 0 1 1 0 
+1 0 0 1 1 0 0 1 
+0 0 1 0 1 1 0 1 
+0 1 1 0 0 1 1 0 
+1 0 0 1 0 0 1 1 
+1 1 0 0 1 1 0 0 
+0 1 1 0 1 0 0 1 
+1 0 1 1 0 0 1 0 
+```
 
 ## Contributing
 Feel free to fork this repository and propose changes via pull requests. Make sure to test new features or changes before submitting.
