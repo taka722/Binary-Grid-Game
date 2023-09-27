@@ -13,3 +13,13 @@ The bingrid project is designed to solve binary grid puzzles. These puzzles cons
 
 ・　Integrates Address and Undefined Sanitizers for safer development.
 
+## Compilation
+### Production build 
+```
+make bingrid
+```
+or 
+```
+make all 
+```
+
