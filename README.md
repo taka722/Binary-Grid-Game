@@ -1,5 +1,9 @@
 # Binary Grid Puzzle Solver 
 
+Description
+The bingrid project is designed to solve binary grid puzzles. These puzzles consist of a grid filled with 1's, 0's, and unknowns (represented as '.'). The solver works by employing certain predefined rules to deduce the value of unknown spots in the grid until a solution is found or it is determined that the puzzle cannot be solved.
+
+
 A Binary Grid is a 2D square grid of cells, each of which is either empty, or contains the
 value 0 or 1. A set of rules governs what is legal in a valid board :
 
