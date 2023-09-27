@@ -6,7 +6,10 @@ The bingrid project is designed to solve binary grid puzzles. These puzzles cons
 
 ## Features
 ・　Parses input strings representing binary puzzles.
+
 ・　Utilizes multiple puzzle-solving rules, such as Pair and Oxo, to deduce unknown values.
+
 ・　Outputs the solution in a human-readable format or indicates if no solution can be found.
+
 ・　Integrates Address and Undefined Sanitizers for safer development.
 
