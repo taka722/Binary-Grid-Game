@@ -1,4 +1,4 @@
-# Binary Grid Puzzle
+# Binary Grid Puzzle Solver 
 
 A Binary Grid is a 2D square grid of cells, each of which is either empty, or contains the
 value 0 or 1. A set of rules governs what is legal in a valid board :
